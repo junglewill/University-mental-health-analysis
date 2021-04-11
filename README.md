@@ -10,3 +10,7 @@ In this project, we aim to achieve the following goals:
 * <b>Aim 1:</b> Find the keywords list for the mental health issues, This could be saved for usage in future machine learning models as the word and id vectors.
 
 * <b>Aim 2:</b> Construct a model that is able to prediction if the author of a post is facing stressful issues
+
+________________________
+
+For more detailed information, please check our <a href='https://github.com/junglewill/Click-through-rate-prediction/blob/master/Report_and_approach.pdf'>final report</a>. Feel free to contact me if you have any questions. Thank you!
