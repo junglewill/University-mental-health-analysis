@@ -13,4 +13,4 @@ In this project, we aim to achieve the following goals:
 
 ________________________
 
-For more detailed information, please check our <a href='https://github.com/junglewill/Click-through-rate-prediction/blob/master/Report_and_approach.pdf'>final report</a>. Feel free to contact me if you have any questions. Thank you!
+For more detailed information, please check our <a href='https://github.com/junglewill/University-mental-health-analysis/blob/master/SDOP_Fan_William.pdf'>final report</a>. Feel free to contact me if you have any questions. Thank you!
